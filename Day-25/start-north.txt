@@ -1,0 +1,8 @@
+== Corridor ==
+The metal walls and the metal floor are slightly different colors. Or are they?
+
+Doors here lead:
+- south
+
+Items here:
+- infinite loop

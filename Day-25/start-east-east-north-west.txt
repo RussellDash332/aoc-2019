@@ -1,0 +1,10 @@
+== Hot Chocolate Fountain ==
+Somehow, it's still working.
+
+Doors here lead:
+- north
+- east
+- west
+
+Items here:
+- food ration

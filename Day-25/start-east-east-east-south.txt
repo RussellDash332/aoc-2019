@@ -1,0 +1,9 @@
+== Holodeck ==
+Someone seems to have left it on the Giant Grid setting.
+
+Doors here lead:
+- north
+- south
+
+Items here:
+- escape pod

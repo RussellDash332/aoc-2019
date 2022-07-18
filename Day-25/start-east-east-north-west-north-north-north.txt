@@ -1,0 +1,8 @@
+== Kitchen ==
+Everything's freeze-dried.
+
+Doors here lead:
+- south
+
+Items here:
+- weather machine

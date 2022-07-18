@@ -1,0 +1,10 @@
+== Sick Bay ==
+Supports both Red-Nosed Reindeer medicine and regular reindeer medicine.
+
+Doors here lead:
+- north
+- east
+- south
+
+Items here:
+- space law space brochure

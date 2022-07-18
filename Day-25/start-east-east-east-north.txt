@@ -1,0 +1,8 @@
+== Science Lab ==
+You see evidence here of prototype polymer design work.
+
+Doors here lead:
+- south
+
+Items here:
+- molten lava

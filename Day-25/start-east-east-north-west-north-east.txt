@@ -1,0 +1,8 @@
+== Crew Quarters ==
+The beds are all too small for you.
+
+Doors here lead:
+- west
+
+Items here:
+- jam

@@ -1,0 +1,10 @@
+== Gift Wrapping Center ==
+How else do you wrap presents on the go?
+
+Doors here lead:
+- north
+- south
+- west
+
+Items here:
+- planetoid

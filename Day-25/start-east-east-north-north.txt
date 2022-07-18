@@ -1,0 +1,9 @@
+== Stables ==
+Reindeer-sized. They're all empty.
+
+Doors here lead:
+- south
+- west
+
+Items here:
+- antenna

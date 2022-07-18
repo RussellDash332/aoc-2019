@@ -1,0 +1,9 @@
+== Passages ==
+They're a little twisty and starting to look all alike.
+
+Doors here lead:
+- north
+- east
+
+Items here:
+- photons

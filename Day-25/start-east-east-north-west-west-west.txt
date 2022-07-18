@@ -1,0 +1,8 @@
+== Arcade ==
+None of the cabinets seem to have power.
+
+Doors here lead:
+- east
+
+Items here:
+- monolith

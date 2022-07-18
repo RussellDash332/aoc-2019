@@ -1,0 +1,6 @@
+== Engineering ==
+You see a whiteboard with plans for Springdroid v2.
+
+Doors here lead:
+- east
+- west

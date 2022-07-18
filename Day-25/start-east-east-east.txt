@@ -1,0 +1,10 @@
+== Hallway ==
+This area has been optimized for something; you're just not quite sure what.
+
+Doors here lead:
+- north
+- south
+- west
+
+Items here:
+- giant electromagnet

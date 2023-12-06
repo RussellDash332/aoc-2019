@@ -1,0 +1,19 @@
+[a0, a1, ..., a(N-1)]
+deal with increment 13
+[a(0*i), a(1*i), ..., a((N-1)*i)]
+cut 5485
+[a(0*i+c), a(1*i+c), ..., a((N-1)*i+c)]
+
+[a0, a1, ..., a(N-1)]
+cut 5485
+[a(0+c'), a(1+c'), ..., a(N-1+c')]
+deal with increment 4884
+
+for any constant k,
+(k*i+c) = (k+c')*i'
+ki + c = ki' + i'c'
+i' = i
+c' = c/i' = c/i
+
+cut 3501
+deal with increment 13
